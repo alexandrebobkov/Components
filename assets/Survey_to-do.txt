@@ -1,0 +1,1 @@
+1. Translate numbers into words for all responses.
