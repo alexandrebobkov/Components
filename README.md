@@ -1,7 +1,9 @@
 # Components
  Collection of frequently used components
 
-### Frequently Used Resistors 
+### Frequently Used Components 
+
+
 
 1, 1.8, 3.3, 5.1, 10, 22, 33, 43, 62, 75, 82, 100, 150, 330, 470, 680
 
